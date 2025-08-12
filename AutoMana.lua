@@ -306,7 +306,7 @@ local function OnEvent()
     if not consumables.tea then
       consumables.tea = AMFindItem(consumables.tea, "15723", arg1)
     end
-    consumables.potion = AMFindItem(consumables.potion, "13444", arg1)
+    consumables.potion = AMFindItem(consumables.potion, "6149", arg1)
     consumables.rejuv = AMFindItem(consumables.rejuv, "18253", arg1)
     consumables.healthstone = AMFindItem(consumables.healthstone, "Healthstone", arg1)
     consumables.flask = AMFindItem(consumables.flask, "13511", arg1)
